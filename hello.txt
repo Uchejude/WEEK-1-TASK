@@ -1,0 +1,15 @@
+QUESTION:
+what does <Meta charset="UTF-8"> stand for, and what is it used for?
+
+ANSWER
+
+UTF-8 stands for "UNICODE TRANSFORMATION FORMAT- 8-BIT" and is a character encoding starndard 
+that represents each unicode character with a variable number of 8-bit bytes. it is widely used
+in computing, inluding for "ENCONDING TEXT" on the internet.
+UTF-8 can represent every charcter in the unicode character set, making it capable of handling texts
+in mutiple languages and scripts.
+
+in HTML, UTF-8 encoding allows web pages to display text in various languages and characters from different 
+languages, symbola, and special characters can be properly rendered and displayed on the web pages regardles 
+of the user's language or location. by using UTF-8 encoding, HTML DOCUMENTS CAN SUPPORT A WIDE RANGE OF
+CHARACTERS, MAKING THEM MORE ACCESSIBLE AND INCLUSIVE TO USERS AROUND THE WORLD.
